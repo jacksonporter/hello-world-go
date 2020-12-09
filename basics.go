@@ -1,4 +1,4 @@
-// Code adapted from the Tour of Go (tour.golang.org)
+// Code adapted from the Tour of Go (tour.golang.org) [Specfically the basics section]
 package main
 
 import (
